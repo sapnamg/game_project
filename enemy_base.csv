@@ -1,0 +1,12 @@
+job,name,level,life,status,health,magic_points,attack,magic,physdefense,magicdefense,equipment,items,spells,skills
+Enemy,Goomba,"1, 10",Alive,Healthy,0,0,0,0,0,0,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Dagger, Staff","Potion, Life Bottle, Tomato, Lemon",,
+Enemy,Gremlin,"5, 15",Alive,Healthy,0,0,0,0,0,0,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Dagger, Staff","Potion, Mushroom, Life Bottle, Tomato, Lemon, Bread",,
+Enemy,Lizard,"15, 25",Alive,Healthy,0,0,0,0,0,0,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava","Potion, Mushroom, Life Bottle, Antidote, Bread, Pasta",,Poison
+Enemy,Nightmare,"20, 30",Alive,Healthy,0,0,0,40,0,40,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger","Potion, Mushroom, Life Bottle, Antidote, Bread, Pasta",,Magic
+Enemy,Bandit,"25, 35",Alive,Healthy,0,0,0,0,0,0,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger, Ninjato","Potion, Mushroom, Heart, Life Bottle, Antidote, Bread, Pasta, Lettuce",,Steal
+Enemy,Wizard,"30, 40",Alive,Healthy,0,0,0,80,0,80,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger, Ninjato","Potion, Mushroom, Heart, Tea, Life Bottle, Fairy, Antidote, Bread, Pasta, Spinach",,Magic
+Enemy,Boar,"35, 45",Alive,Healthy,0,0,0,0,0,0,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger, Ninjato","Potion, Mushroom, Heart, Tea, Life Bottle, Fairy, Antidote, Pasta, Spinach, Chickpeas",,
+Enemy,Zombie,"40, 50",Undead,Healthy,0,0,40,0,80,20,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger, Ninjato","Heart, Tea, Elixir, Life Bottle, Fairy, Antidote, Pasta, Spinach, Chickpeas, Butter",,Poison
+Enemy,Harpy,"45, 55",Alive,Healthy,0,0,0,100,0,100,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger, Ninjato","Heart, Tea, Elixir, Life Bottle, Fairy, Antidote, Pasta, Spinach, Chickpeas, Butter",,Magic
+Enemy,Bear,"50, 60",Alive,Healthy,0,0,150,0,200,0,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger, Ninjato","Tea, Heart, Elixir, Golden Elixir, Fairy, Ambrosia, Pasta, Chickpeas, Butter, Lemon, Lettuce, Tomato, Spinach",,
+Enemy,Dragon,"55, 65",Alive,Healthy,0,0,200,150,150,100,"Leather Cap, Leather Shirt, Wizard Hat, Robes, Ninja Suit, Balaclava, Staff, Dagger, Ninjato","Tea, Heart, Elixir, Golden Elixir, Fairy, Ambrosia, Pasta, Chickpeas, Butter, Lemon, Lettuce, Tomato, Spinach",,Magic

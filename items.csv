@@ -1,0 +1,20 @@
+type,name,life,status,level,experience,health,magic_points,attack,magic,physdefense,magicdefense
+Healing,Potion,,,,,50,0,,,,
+Healing,Heart,,,,,100,0,,,,
+Healing,Mushroom,,,,,0,50,,,,
+Healing,Tea,,,,,0,100,,,,
+Healing,Elixir,,,,,50,50,,,,
+Healing,Golden Elixir,,,,,100,100,,,,
+Restoring,Life Bottle,Alive,Healthy,,,50,50,,,,
+Restoring,Fairy,Alive,Healthy,,,75,75,,,,
+Restoring,Ambrosia,Alive,Healthy,,,100,100,,,,
+Restoring,Antitode,,Healthy,,,25,0,,,,
+Food,Tomato,,,0,0,,,10,10,0,0
+Food,Lemon,,,0,0,,,0,0,10,10
+Food,Lettuce,,,0,0,,,0,20,10,20
+Food,Spinach,,,0,0,,,20,0,20,5
+Food,Chickpeas,,,1,0,,,0,0,0,0
+Food,Butter,,,0,0,,,25,25,25,25
+Food,Pasta,,,0,25,,,0,0,0,0
+Food,Bread,,,0,25,,,5,5,15,15
+Food,Pesto,,,0,1000,,,0,0,0,0

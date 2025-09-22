@@ -1,0 +1,10 @@
+type,name,job,attack,magic,physdefense,magicdefense
+Weapon,Dagger,"Thief, Ninja",15,0,0,0
+Weapon,Ninjato,Ninja,20,0,8,0
+Weapon,Staff,Wizard,5,15,4,5
+Armor,Leather Shirt,"Thief, Ninja",0,0,20,10
+Armor,Ninja Suit,Ninja,0,5,15,10
+Armor,Robes,Wizard,0,5,10,15
+Headgear,Leather Cap,"Thief, Ninja",0,0,5,5
+Headgear,Balaclava,Ninja,0,3,5,5
+Headgear,Wizard Hat,Wizard,0,5,5,5
